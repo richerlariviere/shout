@@ -40,7 +40,7 @@ func presentNotification(time: Float?, message: String) {
 var arguments = CommandLine.arguments
 
 if(arguments.count >= 3) {
-    presentNotification(time: Float(arguments[1]), message: arguments[1..<arguments.count].joined(separator:" "))
+    presentNotification(time: Float(arguments[1]), message: arguments[2..<arguments.count].joined(separator:" "))
 }
 
 sleep(1)
