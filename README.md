@@ -6,6 +6,8 @@ Easily send notification to macOS "Notification Center"
 ## Usage
 
 ```bash
+git clone https://github.com/richerlariviere/shout.git
+cd shout
 # Compile the project
 swiftc -o shout main.swift
 ```
