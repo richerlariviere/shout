@@ -1,7 +1,7 @@
 # Shout
 Easily send notification to macOS "Notification Center"
 
-**Disclaimer: This is very naive code. Do not use it without having a complete knowledge of the code (which is very simple). I plan to clean the inputs laters. At this moment, the code is only usable for measuring time and output it in a notification.**
+**Disclaimer: This is very naive code. Do not use it without having a complete knowledge of the code (which is very simple). I plan to clean the inputs laters. At this moment, the code is only usable for measuring execution time and output it in a notification.**
 
 ## Usage
 
